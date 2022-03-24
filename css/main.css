@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto+Serif:wght@100&family=Roboto:ital,wght@0,100;0,300;1,100&family=Shizuru&display=swap');
+*{
+    margin: 0%;
+    font-family: 'Playfair Display';
+}
+.header{
+    background-color: #ffff;
+    /* overflow: hidden; */
+    padding: 20px 10px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+.header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 0px;
+    border-radius: 4px;
+    margin: 0 10px 0 10px;
+    
+  }
+.header-right{
+    float: right;
+}
+.img-background{
+    background-size: cover;
+}
+.img-background img{
+    height: 100%;
+    width: 100%;
+}
+.img-description{
+    position: relative;
+    bottom: 60px;
+    opacity: 0.5;
+    margin: 0 0 60px 30px;
+    font-size: 40px;
+    /* padding: 20px; */
+    font-family: 'Playfair Display''Playfair Display';
+}
+.section-3{
+    border-bottom: 3px solid #ebebeb;
+}
+.flex-content{
+    display: flex;
+    margin-bottom: 70px;
+}
+  .img1-description{
+    height: 600px;
+    width: 3000px;
+} 
+.img1-description img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover; 
+    border-radius: 4px;
+ } 
+.title-main{
+    text-align: center;
+    padding: 30px;
+} 
+.title-main p{
+    text-align: justify;
+    margin-top: 30px;
+    font-size: 15px;
+    font-family: 'Playfair Display';
+}
+.title-main span{
+    color: #757575;
+}
+.title-main h6{
+    /* opacity: 0.5; */
+    margin-top: 50px;
+    font-family: 'Playfair Display';
+}
+.title-main h3{
+    font-family: 'Playfair Display';
+}
+.flex1-content{
+    display: flex;
+    margin: 100px 0 70px 0;
+}
+
+.img2-description img{
+   height: 100%;
+   width: 100%;
+   border-radius: 4px;
+   object-fit: cover;
+}
+.menu-content{
+    padding: 50px;
+}
+.menu-content h5{
+    margin-top: 50px;
+    font-family: 'Playfair Display';
+}
+.menu-content h6{
+    margin-top: 20px;
+    opacity: 0.5;
+    font-family: 'Playfair Display';
+}
+.menu-content h1{
+    text-align: center;
+}
+.section-4{
+    border-bottom: 3px solid #ebebeb;
+}
+.text-main textarea{
+    width: 100%;
+    /* height: 50px; */
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 2px solid #ebebeb;
+    padding: 20px;
+}
+.text-main button{
+    margin-top: 20px;
+    border-radius: 5px;
+
+}
+.text-main input{
+    width: 100%;
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 2px solid #ebebeb;
+    padding: 20px;
+}
+.section-5 h1{
+    margin: 100px 0 60px 0;
+    font-family: 'Playfair Display';
+}
+.section-5 h6{
+    color: #808080;
+    margin: 20px 0 20px 0;
+    font-family: 'Playfair Display';
+}
